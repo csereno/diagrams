@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-20T19:52:08.989Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="DbH4e5ZjEfRNY5GbpXk2" version="12.1.3" type="github" pages="1">
+<mxfile modified="2019-10-20T19:52:31.177Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="lBUR6W6nkoZ5rcjRytdT" version="12.1.3" type="github" pages="1">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1656" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="696" y="-414" width="128" height="128" as="geometry"/>
         </mxCell>
         <mxCell id="qyL7QlVrrnTCNGOCJlHH-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-537" width="560" height="488" as="geometry"/>
+          <mxGeometry x="540" y="-537" width="560" height="307" as="geometry"/>
         </mxCell>
         <mxCell id="qyL7QlVrrnTCNGOCJlHH-17" value="Management and Viewing" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.023;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=open;startFill=0;endArrow=none;endFill=0;verticalAlign=top;" edge="1" parent="1" source="iOhvE3Qq9spuYCGrNjIp-1" target="qyL7QlVrrnTCNGOCJlHH-14">
           <mxGeometry x="0.5591" relative="1" as="geometry">
